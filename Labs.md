@@ -112,7 +112,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Jaszczak Mariusz
 1. Kamola Filip
 1. Klemarczyk Maciej
-1. Krakowiak Michał
+1. Krakowiak Michał(https://github.com/mkrakowiak)
 1. Marcinkiewicz Oskar
 1. Niewczas Katarzyna
 1. Okoniewski Daniel
